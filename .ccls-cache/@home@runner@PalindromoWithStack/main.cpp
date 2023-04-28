@@ -14,7 +14,6 @@ int len(string sTemp) {
     i++;
     count++;
     }
-  cout << count;
   return count;
   }
 
